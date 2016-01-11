@@ -5,7 +5,7 @@ FactoryGirl.define do
 
   # a customer and an Order
   SKIP_FACTORIES_WHEN_POPULATING << :customer
-  
+
   factory :customer do
     name "Donald"
     discount 10.0
