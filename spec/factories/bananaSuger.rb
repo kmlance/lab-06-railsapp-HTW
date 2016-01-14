@@ -1,5 +1,5 @@
 FactoryGirl.define do
-factory :pinkBanana, class: Pumpkin do
+factory :pinkBanana2016, class: Pumpkin do
   name 'Pink Banana'
   color 'whise'
   size  'm'
