@@ -9,7 +9,7 @@ FactoryGirl.define do
     factory :cindarella, class: Pumpkin do
         name 'Cindarella'
         color 'orange'
-        size 'normal to carriage sized'
+        size 'normal to carriage-size'
         price '2.2'
     end
 end
