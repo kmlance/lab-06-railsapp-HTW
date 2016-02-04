@@ -1,0 +1,29 @@
+---
+de:
+  pumpkins:
+    title: Liste aller Kürbisse
+  pumpkin:
+    color: Farbe
+    name: Art
+    price: Preis
+    size: Grö­ße
+    edit: Bearbeiten
+    show: Anzeigen
+    delete: Löschen
+  orders:
+    title: Liste aller Bestellungen
+  order:
+    customer_id: Kunde Nr.
+    placed_on: Bestellt am
+    status: Bestellstatus
+    edit: Bearbeiten
+    show: Anzeigen
+    delete: Löschen
+  customers:
+    title: Liste aller Kunden
+  customer:
+    name: Name
+    discount: Rabatt
+    edit: Bearbeiten
+    show: Anzeigen
+    delete: Löschen
